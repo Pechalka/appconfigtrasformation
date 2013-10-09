@@ -1,0 +1,3 @@
+C:\Work\Codex\configuration-transformation\AppConfigTransformation\AppConfigTransformation\bin\x86\Live\AppConfigTransformation.exe.config
+C:\Work\Codex\configuration-transformation\AppConfigTransformation\AppConfigTransformation\bin\x86\Live\AppConfigTransformation.exe
+C:\Work\Codex\configuration-transformation\AppConfigTransformation\AppConfigTransformation\obj\x86\Live\AppConfigTransformation.exe

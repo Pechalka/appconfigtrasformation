@@ -1,0 +1,5 @@
+C:\Work\Codex\configuration-transformation\AppConfigTransformation\AppConfigTransformation\bin\Release\AppConfigTransformation.exe.config
+C:\Work\Codex\configuration-transformation\AppConfigTransformation\AppConfigTransformation\bin\Release\AppConfigTransformation.exe
+C:\Work\Codex\configuration-transformation\AppConfigTransformation\AppConfigTransformation\bin\Release\AppConfigTransformation.pdb
+C:\Work\Codex\configuration-transformation\AppConfigTransformation\AppConfigTransformation\obj\x86\Release\AppConfigTransformation.exe
+C:\Work\Codex\configuration-transformation\AppConfigTransformation\AppConfigTransformation\obj\x86\Release\AppConfigTransformation.pdb
